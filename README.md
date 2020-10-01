@@ -1,3 +1,2 @@
 # Python_projects_beginners
-
-Basic Python Projects for beginners
+Come and learn some basic Python Projects for beginners
